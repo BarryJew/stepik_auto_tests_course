@@ -1,4 +1,4 @@
 # stepik_auto_tests_course
 For training autotests
 
-Here i'm writing new text
+В данном репозитории содержатся файлы для уроков по автотесту
